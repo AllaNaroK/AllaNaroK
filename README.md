@@ -2,7 +2,7 @@
   
   Would you accept a cup of *coffee*? ☕ 
   
-  - 📓 Currently estuding/working to form as a _Quality Assurence_ analist of software. 
+  - 📓 Currently studing/working to form as a _Quality Assurence_ analist of software. 
 
 </br>
 
