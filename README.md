@@ -1,8 +1,8 @@
-## _Hey! I'm Allan Narok :d_
+## _Hey! I'm Allan Narok :d_ <img align="right" alt="Allan-gif" src="https://github.com/AllaNaroK/AllaNaroK/blob/main/hi2.gif">
   
-  Would you accept a cup of *coffee*? ☕
+  Would you accept a cup of *coffee*? ☕ 
   
-  - 📓 Currently estuding/working to form as a Quality Assurence analist of software.
+  - 📓 Currently estuding/working to form as a Quality Assurence analist of software. 
 
 <div align="center">
   <a href="https://github.com/allanarok">
@@ -14,7 +14,6 @@
   <img align="center" alt="Allan-Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Allan-gif" src="https://cdn.discordapp.com/attachments/802289083145388044/1022956430531235860/hi2.gif">
 </div> 
     
   ## 
