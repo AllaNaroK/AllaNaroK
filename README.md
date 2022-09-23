@@ -1,4 +1,4 @@
-## _Hey! I'm Allan Narok :d_
+## _Hey! I'm Allan Narok :d_  <img align="right" alt="Allan-pic" src="https://github.com/AllaNaroK/AllaNaroK/blob/main/hi2.gif">
   
   Would you accept a cup of *coffee*? ☕ 
   
@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/allanarok">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanarok&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanarok&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=allanarok&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanarok&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Allan-Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
