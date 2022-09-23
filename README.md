@@ -1,4 +1,4 @@
-## _Hey! I'm Allan Narok :d_ <img align="right" alt="Allan-pic" style="border-radius:50px;" src="https://github.com/AllaNaroK/AllaNaroK/blob/main/hi2.gif">
+## _Hey! I'm Allan Narok :d_
   
   Would you accept a cup of *coffee*? ☕ 
   
