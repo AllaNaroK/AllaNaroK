@@ -1,8 +1,10 @@
-## _Hey! I'm Allan Narok :d_  <img align="right" alt="Allan-pic" src="https://github.com/AllaNaroK/AllaNaroK/blob/main/hi3.gif">
+## _Hey! I'm Allan Narok :d_  <img align="right" height="125" width="125"  alt="Allan-pic" src="https://github.com/AllaNaroK/AllaNaroK/blob/main/hi3.gif">
   
   Would you accept a cup of *coffee*? ☕ 
   
   - 📓 Currently estuding/working to form as a _Quality Assurence_ analist of software. 
+
+</br>
 
 <div align="center">
   <a href="https://github.com/allanarok">
