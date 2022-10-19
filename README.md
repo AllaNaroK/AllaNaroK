@@ -13,6 +13,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Allan-Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
+  <img align="center" alt="Allan-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> 
