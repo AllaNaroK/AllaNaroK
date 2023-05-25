@@ -12,10 +12,13 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanarok&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Allan-RobotFramework" height="30" width="40" src="https://www.svgrepo.com/show/374049/robotframework.svg">
   <img align="center" alt="Allan-Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
-  <img align="center" alt="Allan-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
-  <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Allan-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
+  
+  
 </div> 
     
   ## 
